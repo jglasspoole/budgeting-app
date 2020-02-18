@@ -6,6 +6,7 @@
 - It should provide an easy and accessible way of entering every day expenses.
 - Multiple users should be able to be linked to the same account. I.e. Husband & Wife, or co-workers/partners in a business should be able to see and manipulate the same account data.
 - Should provide a rich statistical reporting interface to provide maximum context & clarity on financial inflows & outflows.
+- Dynamic currencies should be implemented so the application is internationally applicable
 
 #### Stack Overview
 ##### Database
